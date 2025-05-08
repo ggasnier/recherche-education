@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: recherche
+  main:
+    banner-mode: off
